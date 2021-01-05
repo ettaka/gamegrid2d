@@ -1,0 +1,24 @@
+{
+  "name": "gamegrid2d",
+  "version": "0.0.1",
+  "description": "Grid library for simple 2d games",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ettaka/gamegrid2d.git"
+  },
+  "keywords": [
+    "grid",
+    "2d",
+    "game"
+  ],
+  "author": "Eelis Takala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ettaka/gamegrid2d/issues"
+  },
+  "homepage": "https://github.com/ettaka/gamegrid2d#readme"
+}
